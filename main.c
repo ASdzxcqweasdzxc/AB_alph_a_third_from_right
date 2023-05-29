@@ -160,7 +160,7 @@ int S7() {
 int main() {
 //    int i;
     printf("Enter char sequence for {a,b}: ");
-    int i = S0();
+    S0();
 
 //    printf("\nFinal_res= %c \n", res);
     if (res == 'a') {
